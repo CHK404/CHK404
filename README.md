@@ -2,7 +2,16 @@
 
 <h1 align="center">📫 Contact</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azbxabcd4@gmail.com) 
+<p align="center">
+  <a href="mailto:azbxabcd4@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=20"
+      alt="Gmail"
+      height="28"
+    />
+  </a>
+</p>
+
 ---
 
 <h1 align="center">🛠 Tech Stack</h1>

@@ -102,21 +102,14 @@
 <h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
   <img
-    src="https://quickchart.io/chart?width=500&c={
-      type:'pie',
-      data:{
-        labels:['C#','C++','OpenCV','YOLO','TensorFlow','MySQL','MS SQL'],
-        datasets:[{data:[25,15,10,10,20,10,10]}]
-      }
-    }"
-    alt="Language Pie Chart"
-    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbxabcd4&layout=compact&theme=vue-dark&langs_count=5"
+    alt="Top Languages"
+    style="height:200px; width:auto; margin-right:16px; object-fit:contain;"
   />
-  &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CHK404&show_icons=true&theme=vue-dark&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=azbxabcd4&show_icons=true&theme=vue-dark&count_private=true"
     alt="GitHub Stats"
-    width="45%"
+    style="height:200px; width:auto; object-fit:contain;"
   />
 </p>
 

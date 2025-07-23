@@ -9,42 +9,36 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp"
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"
     alt="C#"
-    height="50"
   />&nbsp;
   <img
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c-plusplus"
+    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-plusplus"
     alt="C++"
-    height="32"
   />&nbsp;
   <img
-    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv"
+    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"
     alt="OpenCV"
-    height="32"
   />&nbsp;
   <img
-    src="https://img.shields.io/badge/YOLO-FF0000?style=flat&logo=yolo"
+    src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo"
     alt="YOLO"
-    height="32"
   />&nbsp;
   <img
-    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"
+    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"
     alt="TensorFlow"
-    height="32"
   />
-  <br/><br/>
+  <br/>
   <img
-    src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"
     alt="MySQL"
-    height="32"
   />&nbsp;
   <img
-    src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server"
+    src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server"
     alt="MS SQL"
-    height="32"
   />
 </p>
+
 
 
 

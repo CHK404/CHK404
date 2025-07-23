@@ -1,17 +1,15 @@
 <h1 align="center">Hi there 👋</h1>
 
 <h1 align="center">📫 Contact</h1>
-
 <p align="center">
   <a href="mailto:azbxabcd4@gmail.com">
     <img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=25"
       alt="Gmail"
-      style="height:48px; padding:0 8px;"
+      style="height:36px; padding:0 8px;"
     />
   </a>
 </p>
-
 
 ---
 

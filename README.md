@@ -101,17 +101,16 @@
 
 <h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
-  <a href="https://github.com/CHK404">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=CHK404&show_icons=true&theme=vue-dark"
-      width="45%"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbxabcd4&layout=compact&theme=vue-dark&langs_count=5"
+    alt="Most Used Languages"
+    width="45%"
+  />
   &nbsp;
-  <a href="https://github.com/CHK404">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark"
-      width="45%"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azbxabcd4&show_icons=true&theme=vue-dark&count_private=true"
+    alt="GitHub Stats"
+    width="45%"
+  />
 </p>
+

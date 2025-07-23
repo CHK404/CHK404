@@ -103,14 +103,14 @@
 <p align="center">
   <a href="https://github.com/CHK404">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=azbxabcd4&show_icons=true&theme=vue-dark"
+      src="https://github-readme-stats.vercel.app/api?username=CHK404&show_icons=true&theme=vue-dark"
       width="45%"
     />
   </a>
   &nbsp;
   <a href="https://github.com/CHK404">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbxabcd4&layout=compact&theme=vue-dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark"
       width="45%"
     />
   </a>

@@ -33,7 +33,7 @@
     alt="TensorFlow"
     height="32"
   />
-  <br/>
+  <br/><br/>
   <img
     src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"
     alt="MySQL"

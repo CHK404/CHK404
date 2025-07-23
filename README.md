@@ -104,14 +104,14 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbxabcd4&layout=compact&theme=vue-dark&langs_count=5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark&langs_count=5"
         alt="Top Languages"
         width="300px"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=azbxabcd4&show_icons=true&theme=vue-dark&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=CHK404&show_icons=true&theme=vue-dark&count_private=true"
         alt="GitHub Stats"
         width="300px"
       />

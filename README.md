@@ -41,7 +41,7 @@
     alt="TensorFlow"
     style="height:24px; margin:0 6px;"
   />
-  <br/><br/>
+  <br/>
   <img
     src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoWidth=24"
     alt="MySQL"

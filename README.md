@@ -102,12 +102,12 @@
 <h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbxabcd4&layout=compact&theme=vue-dark&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark&langs_count=5"
     alt="Top Languages"
     style="height:200px; width:auto; margin-right:16px; object-fit:contain;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=azbxabcd4&show_icons=true&theme=vue-dark&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=CHK404&show_icons=true&theme=vue-dark&count_private=true"
     alt="GitHub Stats"
     style="height:200px; width:auto; object-fit:contain;"
   />

@@ -102,8 +102,14 @@
 <h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark&langs_count=5"
-    alt="Most Used Languages"
+    src="https://quickchart.io/chart?width=500&c={
+      type:'pie',
+      data:{
+        labels:['C#','C++','OpenCV','YOLO','TensorFlow','MySQL','MS SQL'],
+        datasets:[{data:[25,15,10,10,20,10,10]}]
+      }
+    }"
+    alt="Language Pie Chart"
     width="45%"
   />
   &nbsp;

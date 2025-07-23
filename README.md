@@ -58,11 +58,29 @@
 ---
 
 ## 🔧 Tools & IDEs
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoWidth=24"
+    alt="VS Code"
+    style="height:24px; margin:0 6px;"
+  />
+  <img
+    src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoWidth=24"
+    alt="Visual Studio"
+    style="height:24px; margin:0 6px;"
+  />
+  <img
+    src="https://img.shields.io/badge/-MySQL%20Workbench-00758F?style=flat-square&logo=mysql&logoWidth=24"
+    alt="MySQL Workbench"
+    style="height:24px; margin:0 6px;"
+  />
+  <img
+    src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoWidth=24"
+    alt="Notion"
+    style="height:24px; margin:0 6px;"
+  />
+</p>
 
-- VS Code / Visual Studio  
-- MySQL Workbench  
-- Postman  
-- PyCharm / Rider  
 
 ---
 

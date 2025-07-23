@@ -8,39 +8,35 @@
 <h1 align="center">🛠 Tech Stack</h1>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"
-    alt="C#"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c-plusplus"
-    alt="C++"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"
-    alt="OpenCV"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo"
-    alt="YOLO"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"
-    alt="TensorFlow"
-  />
-  <br/>
-  <img
-    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"
-    alt="MySQL"
-  />&nbsp;
-  <img
-    src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server"
-    alt="MS SQL"
-  />
+  <a href="https://docs.microsoft.com/dotnet/csharp" title="C#">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/csharp.svg"
+         alt="C#" height="40" style="margin:0 12px" />
+  </a>
+  <a href="https://isocpp.org" title="C++">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg"
+         alt="C++" height="40" style="margin:0 12px" />
+  </a>
+  <a href="https://opencv.org" title="OpenCV">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/opencv.svg"
+         alt="OpenCV" height="40" style="margin:0 12px" />
+  </a>
+  <a href="https://pjreddie.com/darknet/yolo/" title="YOLO">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/yolo.svg"
+         alt="YOLO" height="40" style="margin:0 12px" />
+  </a>
+  <a href="https://tensorflow.org" title="TensorFlow">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg"
+         alt="TensorFlow" height="40" style="margin:0 12px" />
+  </a>
+  <a href="https://mysql.com" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"
+         alt="MySQL" height="40" style="margin:0 12px" />
+  </a>
+  <a href="https://microsoft.com/sql-server" title="MS SQL">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg"
+         alt="MS SQL" height="40" style="margin:0 12px" />
+  </a>
 </p>
-
-
-
 
 ---
 

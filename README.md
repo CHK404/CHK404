@@ -6,7 +6,7 @@
     <img
       src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=25"
       alt="Gmail"
-      style="height:36px; padding:0 8px;"
+      style="height:32px; padding:0 8px;"
     />
   </a>
 </p>

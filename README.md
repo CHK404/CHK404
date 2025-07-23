@@ -11,7 +11,7 @@
   <img
     src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp"
     alt="C#"
-    height="32"
+    height="50"
   />&nbsp;
   <img
     src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c-plusplus"

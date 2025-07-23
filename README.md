@@ -5,12 +5,13 @@
 <p align="center">
   <a href="mailto:azbxabcd4@gmail.com">
     <img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=40"
+      src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"
       alt="Gmail"
-      height="32"
+      style="height:48px; padding:0 8px;"
     />
   </a>
 </p>
+
 
 ---
 

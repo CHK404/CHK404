@@ -54,11 +54,27 @@
   />
 </p>
 
-
 ---
 
-## 🔧 Tools & IDEs
+<h1 align="center">🔧 Tools & IDEs</h1>
+
 <p align="center">
+  <img
+    src="https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git&logoWidth=24"
+    alt="Git"
+    style="height:24px; margin:0 6px;"
+  />
+  <img
+    src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoWidth=24"
+    alt="GitHub"
+    style="height:24px; margin:0 6px;"
+  />
+  <img
+    src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoWidth=24"
+    alt="Notion"
+    style="height:24px; margin:0 6px;"
+  />
+  <br/>
   <img
     src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoWidth=24"
     alt="VS Code"
@@ -75,12 +91,11 @@
     style="height:24px; margin:0 6px;"
   />
   <img
-    src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoWidth=24"
-    alt="Notion"
+    src="https://img.shields.io/badge/-MATLAB-F16724?style=flat-square&logo=matlab&logoColor=white&logoWidth=24"
+    alt="MATLAB"
     style="height:24px; margin:0 6px;"
   />
 </p>
-
 
 ---
 

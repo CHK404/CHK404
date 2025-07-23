@@ -99,10 +99,19 @@
 
 ---
 
-## 📈 GitHub Stats
-
+<h1 align="center">📈 GitHub Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=vue-dark" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=vue-dark" width="45%" />
+  <a href="https://github.com/CHK404">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=azbxabcd4&show_icons=true&theme=vue-dark"
+      width="45%"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/CHK404">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=azbxabcd4&layout=compact&theme=vue-dark"
+      width="45%"
+    />
+  </a>
 </p>
-

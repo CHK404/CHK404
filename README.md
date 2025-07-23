@@ -10,11 +10,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp" alt="C#" />&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c-plusplus" alt="C++" />
-
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv" alt="OpenCV" />&nbsp;
   <img src="https://img.shields.io/badge/YOLO-FF0000?style=flat&logo=yolo" alt="YOLO" />&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" alt="TensorFlow" />
-
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL" />&nbsp;
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server" alt="MS SQL" />
 </p>

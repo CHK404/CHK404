@@ -27,11 +27,6 @@
     style="height:24px; margin:0 6px;"
   />
   <img
-  src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=24"
-  alt="Python"
-  style="height:24px; margin:0 6px;"
-  />
-  <img
     src="https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
     alt="Windows Presentation Foundation"
     style="height:24px; margin:0 6px;"
@@ -39,6 +34,11 @@
   <img
     src="https://img.shields.io/badge/-WinForms-0078D6?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
     alt="Windows Forms"
+    style="height:24px; margin:0 6px;"
+  />
+  <img
+    src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=24"
+    alt="Python"
     style="height:24px; margin:0 6px;"
   />
   <br/>

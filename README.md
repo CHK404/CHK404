@@ -24,7 +24,7 @@
   <img
     src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoWidth=24"
     alt="C"
-    style="height:24px; margin:0 6px;"
+    style="height:24px; margin:0px; vertical-align:middle;"
   />
   <img
     src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c-plusplus&logoWidth=24"

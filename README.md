@@ -109,7 +109,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark&langs_count=5"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHK404&layout=compact&theme=vue-dark&langs_count=5&cache_seconds=0"
         alt="Top Languages"
         width="400px"
       />

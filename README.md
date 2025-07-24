@@ -22,7 +22,7 @@
     style="height:24px; margin:0 6px;"
   />
   <img
-    src="https://img.shields.io/badge/C-A8B9CC?style=flat-square="
+    src="https://img.shields.io/badge/C-A8B9CC?style=flat-square"
     alt="C"
     style="height:24px; margin:0px; vertical-align:middle;"
   />

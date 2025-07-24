@@ -95,6 +95,11 @@
     alt="MATLAB"
     style="height:24px; margin:0 6px;"
   />
+  <img
+  src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&logoWidth=24"
+  alt="Jupyter Notebook"
+  style="height:24px; margin:0 6px;"
+  />
 </p>
 
 ---

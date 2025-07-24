@@ -27,14 +27,14 @@
     style="height:24px; margin:0 6px;"
   />
   <img
-  src="https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
-  alt="Windows Presentation Foundation"
-  style="height:24px; margin:0 6px;"
+    src="https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
+    alt="Windows Presentation Foundation"
+    style="height:24px; margin:0 6px;"
   />
   <img
-  src="https://img.shields.io/badge/-WinForms-0078D6?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
-  alt="Windows Forms"
-  style="height:24px; margin:0 6px;"
+    src="https://img.shields.io/badge/-WinForms-0078D6?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
+    alt="Windows Forms"
+    style="height:24px; margin:0 6px;"
   />
   <br/>
   <img
@@ -102,9 +102,9 @@
     style="height:24px; margin:0 6px;"
   />
   <img
-  src="https://img.shields.io/badge/-SQL%20Server%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&logoWidth=24"
-  alt="SQL Server Management Studio"
-  style="height:24px; margin:0 6px;"
+    src="https://img.shields.io/badge/-SQL%20Server%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&logoWidth=24"
+    alt="SQL Server Management Studio"
+    style="height:24px; margin:0 6px;"
   />
   <br/>
   <img
@@ -113,14 +113,14 @@
     style="height:24px; margin:0 6px;"
   />
   <img
-  src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&logoWidth=24"
-  alt="Jupyter Notebook"
-  style="height:24px; margin:0 6px;"
+    src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white&logoWidth=24"
+    alt="Jupyter Notebook"
+    style="height:24px; margin:0 6px;"
   />
   <img
-  src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&logoWidth=24"
-  alt="Google Colab"
-  style="height:24px; margin:0 6px;"
+    src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&logoWidth=24"
+    alt="Google Colab"
+    style="height:24px; margin:0 6px;"
   />
 </p>
 

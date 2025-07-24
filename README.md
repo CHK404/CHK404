@@ -100,6 +100,11 @@
   alt="Jupyter Notebook"
   style="height:24px; margin:0 6px;"
   />
+  <img
+  src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&logoWidth=24"
+  alt="Google Colab"
+  style="height:24px; margin:0 6px;"
+  />
 </p>
 
 ---

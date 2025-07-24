@@ -91,6 +91,12 @@
     style="height:24px; margin:0 6px;"
   />
   <img
+  src="https://img.shields.io/badge/-SQL%20Server%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&logoWidth=24"
+  alt="SQL Server Management Studio"
+  style="height:24px; margin:0 6px;"
+  />
+  <br/>
+  <img
     src="https://img.shields.io/badge/-MATLAB-F16724?style=flat-square&logo=matlab&logoColor=white&logoWidth=24"
     alt="MATLAB"
     style="height:24px; margin:0 6px;"

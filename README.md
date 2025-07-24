@@ -27,6 +27,17 @@
     style="height:24px; margin:0 6px;"
   />
   <img
+  src="https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
+  alt="Windows Presentation Foundation"
+  style="height:24px; margin:0 6px;"
+  />
+  <img
+  src="https://img.shields.io/badge/-WinForms-0078D6?style=flat-square&logo=windows&logoColor=white&logoWidth=24"
+  alt="Windows Forms"
+  style="height:24px; margin:0 6px;"
+  />
+  <br/>
+  <img
     src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoWidth=24"
     alt="OpenCV"
     style="height:24px; margin:0 6px;"
